@@ -1,6 +1,6 @@
 package es.ilerna.M0486.ra3.pt22.pt3.anotacions.main;
 
-import java.util.List;
+import java.util.List; 
 import java.util.Scanner;
 
 import org.hibernate.Session;
